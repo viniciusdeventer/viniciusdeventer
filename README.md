@@ -19,15 +19,9 @@
 
 ---
 
-## ✨ Sobre Mim
+Olá! Vinicius Miranda aqui, trabalho com desenvolvimento de software. Atuo com aplicações web e desktop, e também tenho experiência com testes de software.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💼 Desenvolvedor **Full Stack** com experiência em aplicações **web**, **desktop** e **testes de software**  
-🔍 Entusiasta de novas tecnologias e boas práticas de desenvolvimento  
-🚀 Em constante aprendizado, buscando sempre evoluir tecnicamente e pessoalmente  
-🤝 Participante de projetos acadêmicos e profissionais, com foco em colaboração e crescimento
-
----
+Atualmente curso Análise e Desenvolvimento de Sistemas, participo de projetos acadêmicos e profissionais, e estou sempre buscando aprender algo novo para evoluir na área.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -79,8 +73,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-miranda-43b731260)
 - 📧 [E-mail](mailto:viniciusdeventer@gmail.com)
 
----
-
 [![](https://visitcount.itsvg.in/api?id=viniciusdeventer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Criado com carinho usando GPRM: https://gprm.itsvg.in -->
