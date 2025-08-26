@@ -1,8 +1,4 @@
-# 👨🏻‍💻 Vinicius Miranda
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
-</div>
+# Vinicius Miranda
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-miranda-43b731260" target="_blank">
@@ -56,14 +52,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas, participo de projetos a
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=viniciusdeventer&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
----
-
-## 🏆 Conquistas GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciusdeventer&theme=radical&no-frame=false&no-bg=true&margin-w=8"/>
 </div>
 
 ---
