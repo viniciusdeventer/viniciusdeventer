@@ -1,4 +1,6 @@
-# Vinicius Miranda
+<div align="center">
+  <h1>Vinicius Miranda</h1>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-miranda-43b731260" target="_blank">
